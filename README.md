@@ -38,4 +38,4 @@ User → Streamlit Interface → Gemini AI → Supabase Storage → Response to 
 ### 1 Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Chatbot-Cloud-Storage.git
+git clone https://github.com/Mayank7744/AI-Chatbot-Cloud-Storage.git
